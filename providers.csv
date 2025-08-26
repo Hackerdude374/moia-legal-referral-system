@@ -1,0 +1,13 @@
+ProviderID,Name,BoroughsServed,Languages,Specialties,IntakeCapacity,ContactEmail,Status
+P001,Harbor Legal Aid,Manhattan;Brooklyn;Queens,English;Spanish;Mandarin,Asylum;Work Authorization;TPS,8,intake@harborlegalaid.org,Active
+P002,Bridge Community Law,Brooklyn;Queens,English;Spanish;Russian,DACA;Family Petition;Citizenship,6,referrals@bridgecommunitylaw.org,Active
+P003,Sunrise Refugee Services,Queens;Bronx,English;Bengali;Hindi;Urdu,Asylum;Family Petition,5,hello@sunriserefugees.org,Active
+P004,North Shore Immigrant Center,Staten Island;Brooklyn,English;Arabic;Spanish,TPS;Citizenship;Work Authorization,4,contact@nsicenter.org,Active
+P005,Uptown Legal Collective,Manhattan;Bronx,English;Spanish;French,Asylum;Removal Defense,7,team@uptownlegal.org,Active
+P006,Elmhurst Justice Partners,Queens,English;Mandarin;Cantonese;Fuzhounese,Citizenship;Family Petition,9,intake@ejp-ny.org,Active
+P007,Bronx Defenders - Immigration,Bronx,English;Spanish,Removal Defense;Asylum,10,referrals@bronxdefenders.org,Active
+P008,South Brooklyn Legal Clinic,Brooklyn,English;Spanish;Russian,Citizenship;DACA;TPS,6,info@sblclinic.org,Active
+P009,Jackson Heights Immigrant Help,Queens,English;Spanish;Nepali;Tibetan,Asylum;Work Authorization,5,support@jhih.org,Active
+P010,Lower East Side Rights Center,Manhattan,English;Spanish;Cantonese,Family Petition;Citizenship,7,lesrc@rightscenter.org,Active
+P011,St. George Immigration Desk,Staten Island,English;Spanish;Arabic,Citizenship;Family Petition,4,desk@stgeorgeimm.org,Active
+P012,Bushwick Community Advocates,Brooklyn,English;Spanish,DACA;Work Authorization,6,intake@bca-ny.org,Active

@@ -1,0 +1,61 @@
+IntakeID,Date,PreferredLanguage,Borough,LegalNeed,ConsentGiven,ContactMethod,CaseCode
+I0001,2025-08-14 04:21:26,English,Brooklyn,Citizenship,N,Email,0P0INZ
+I0002,2025-08-22 00:58:26,Hindi,Brooklyn,TPS,Y,Phone,EZXSVV
+I0003,2025-08-02 20:05:26,English,Bronx,TPS,Y,Email,7P42RW
+I0004,2025-08-16 08:43:26,Cantonese,Brooklyn,Family Petition,Y,Phone,AG48AX
+I0005,2025-08-21 00:36:26,Spanish,Queens,Work Authorization,N,Email,MXMV0V
+I0006,2025-08-13 09:41:26,Spanish,Queens,Asylum,Y,Phone,YB4DFU
+I0007,2025-08-09 16:38:26,Urdu,Brooklyn,Asylum,Y,Email,HVAMJ3
+I0008,2025-08-02 01:11:26,English,Queens,Asylum,Y,Email,D72NF8
+I0009,2025-08-22 10:17:26,Russian,Brooklyn,TPS,Y,Phone,S9U3X6
+I0010,2025-08-12 23:05:26,English,Brooklyn,Asylum,Y,Email,GIF0D9
+I0011,2025-08-03 01:52:26,Mandarin,Brooklyn,Family Petition,Y,Phone,ACZAEO
+I0012,2025-08-17 22:02:26,Russian,Queens,Citizenship,Y,Email,2VSDOA
+I0013,2025-08-01 17:06:26,Mandarin,Queens,Removal Defense,Y,Phone,21VDHE
+I0014,2025-08-21 21:48:26,Arabic,Brooklyn,Family Petition,Y,Email,ED7YRQ
+I0015,2025-07-27 14:18:26,Urdu,Bronx,Family Petition,Y,Phone,3AFBRT
+I0016,2025-08-22 22:34:26,English,Brooklyn,Family Petition,Y,Email,1NKHJ8
+I0017,2025-08-20 15:34:26,Spanish,Manhattan,Family Petition,Y,Email,38D3GC
+I0018,2025-08-21 19:29:26,Mandarin,Brooklyn,TPS,Y,Phone,0VUWFO
+I0019,2025-07-28 21:30:26,Spanish,Queens,Asylum,N,Email,V7L8CB
+I0020,2025-07-28 15:24:26,Cantonese,Manhattan,Removal Defense,Y,Email,99J0V4
+I0021,2025-08-16 18:49:26,English,Queens,Removal Defense,Y,Email,0FNSPJ
+I0022,2025-07-29 13:20:26,Arabic,Queens,Asylum,Y,Email,F62F8V
+I0023,2025-07-30 16:22:26,English,Queens,TPS,Y,Email,73UH3O
+I0024,2025-07-31 00:37:26,Spanish,Brooklyn,Family Petition,N,Phone,FWRF5A
+I0025,2025-08-15 11:09:26,Spanish,Manhattan,Removal Defense,Y,Email,KXY7AP
+I0026,2025-08-07 06:06:26,Arabic,Manhattan,TPS,N,Email,T4ML1J
+I0027,2025-08-25 11:26:26,Urdu,Manhattan,Asylum,N,Email,ZVF2AJ
+I0028,2025-08-02 17:16:26,Spanish,Brooklyn,DACA,Y,Email,AAU7ZO
+I0029,2025-08-21 09:24:26,Spanish,Queens,Asylum,N,Phone,WT41TI
+I0030,2025-08-03 00:27:26,Russian,Staten Island,Work Authorization,Y,Phone,LZMM2I
+I0031,2025-08-17 17:14:26,Mandarin,Queens,Removal Defense,Y,Email,89EM9F
+I0032,2025-08-16 06:36:26,Hindi,Queens,DACA,Y,Email,W153MF
+I0033,2025-08-09 05:10:26,Spanish,Manhattan,Family Petition,Y,Email,584HJX
+I0034,2025-08-17 06:24:26,English,Manhattan,Citizenship,Y,Phone,ACTO6S
+I0035,2025-07-27 23:04:26,English,Brooklyn,Citizenship,Y,Email,CP7FW8
+I0036,2025-08-03 03:57:26,Spanish,Manhattan,DACA,N,Phone,AH0896
+I0037,2025-08-10 06:02:26,Spanish,Queens,Citizenship,Y,Email,CSAUCI
+I0038,2025-08-14 21:51:26,English,Queens,Asylum,Y,Phone,RF2L0Y
+I0039,2025-08-19 04:32:26,Cantonese,Queens,TPS,Y,Email,I63FC1
+I0040,2025-08-07 14:09:26,Spanish,Brooklyn,Family Petition,Y,Phone,724681
+I0041,2025-08-15 11:46:26,Cantonese,Brooklyn,Removal Defense,Y,Email,GA9Q2J
+I0042,2025-07-29 06:07:26,Bengali,Brooklyn,TPS,Y,Phone,OZVXTG
+I0043,2025-08-19 19:20:26,Cantonese,Manhattan,TPS,Y,Email,9Z5XUI
+I0044,2025-08-07 04:37:26,English,Brooklyn,DACA,Y,Email,ZCFIS5
+I0045,2025-08-23 20:43:26,Russian,Brooklyn,TPS,N,Phone,IG6ZP4
+I0046,2025-07-27 14:26:26,Russian,Brooklyn,Work Authorization,Y,Email,86EJFW
+I0047,2025-08-13 09:38:26,English,Queens,Work Authorization,N,Phone,ZOAOJL
+I0048,2025-08-05 13:53:26,English,Manhattan,Family Petition,Y,Email,6T7GI0
+I0049,2025-08-23 05:43:26,Russian,Brooklyn,Asylum,Y,Email,7PO9C9
+I0050,2025-08-25 19:30:26,Spanish,Brooklyn,Citizenship,Y,Phone,5JW6OG
+I0051,2025-07-29 12:46:26,English,Brooklyn,DACA,Y,Phone,UVAXUA
+I0052,2025-08-15 19:27:26,English,Manhattan,Citizenship,Y,Email,NGTXFI
+I0053,2025-08-11 17:49:26,English,Manhattan,Family Petition,Y,Phone,YADWAN
+I0054,2025-08-16 07:21:26,Arabic,Manhattan,Family Petition,Y,Email,G74IIH
+I0055,2025-07-29 00:56:26,Hindi,Queens,Asylum,N,Email,LZGVQS
+I0056,2025-08-22 07:48:26,English,Brooklyn,Asylum,Y,Phone,JA3878
+I0057,2025-08-23 12:13:26,Arabic,Manhattan,Citizenship,N,Phone,URPY7Q
+I0058,2025-08-05 23:24:26,Arabic,Brooklyn,DACA,Y,Email,K1VUID
+I0059,2025-08-08 09:31:26,English,Bronx,DACA,Y,Phone,4ZEKKU
+I0060,2025-08-18 14:42:26,English,Bronx,Removal Defense,N,Phone,V22KCE

@@ -25,6 +25,11 @@ moia-legal-referral-system/
    - Create item in **Referrals** (Status="Sent", SentAt=utcNow())
    - Send email to provider contact
 5. In **Power BI**, connect to the Lists (or use data/*.csv) and build KPIs.
+
+KPI = Key Performance Indicator
+
+It’s a number (or measurement) that tells you if your project/program is doing well, or if something needs fixing.
+
 6. In **Excel**, import `excel-macros/QA_Checks.bas` and run **QA_Checks** on your Referrals export.
 
 ## Optional Matching API
